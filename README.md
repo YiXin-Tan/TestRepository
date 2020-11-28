@@ -3,7 +3,7 @@
 Hi there!
 
 ## Quick Links
-[Gogle](https://www.google.com/)
+[Google](https://www.google.com/)
 
 ```python
 print('Hello world!')
