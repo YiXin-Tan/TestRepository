@@ -2,8 +2,8 @@
 
 Hi there!
 
-## Installation
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+## Quick Links
+[Gogle](https://www.google.com/)
 
 ```python
 print('Hello world!')
